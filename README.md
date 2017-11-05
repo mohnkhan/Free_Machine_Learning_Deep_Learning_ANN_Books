@@ -245,7 +245,7 @@ Australian National University
 <hr>
 
 
-Building Machine Learning Systems with Python
+**Building Machine Learning Systems with Python**
 
 [https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms]
 

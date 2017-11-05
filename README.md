@@ -219,3 +219,24 @@ This book provides an introduction to statistical learning methods. It is aimed 
 
 
 <hr>
+
+
+**Introduction to Machine Learning**
+[http://alex.smola.org/drafts/thebook.pdf]
+
+- Authors: Alex Smola and S.V.N. Vishwanathan
+- Year: 2008
+- Pages: 234 pages
+
+
+Book Description:
+A Draft text book, possibly 
+
+Yahoo! Labs
+Santa Clara
+–and–
+Departments of Statistics and Computer Science
+Purdue University
+–and–
+College of Engineering and Computer Science
+Australian National University

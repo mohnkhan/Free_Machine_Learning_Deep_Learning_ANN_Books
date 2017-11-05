@@ -240,3 +240,26 @@ Purdue University
 –and–
 College of Engineering and Computer Science
 Australian National University
+
+
+<hr>
+
+
+Building Machine Learning Systems with Python
+
+[https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms]
+
+- Authors: Willi Richert, Luis Pedro Coelho
+- Year: July 2013
+- Pages: 290 pages
+
+Book Description:
+
+Expand your Python knowledge and learn all about machine-learning libraries in this user-friendly manual. ML is the next big breakthrough in technology and this book will give you the head-start you need.
+Build a classification system that can be applied to text, images, or sounds
+Use Numpy, ScipY, scikit-learn, and Matplotlib: Python open-source libraries for data and machine learning
+Employ Amazon Web Services to run analyses on the cloud
+Recommend products to users based on past purchases
+
+<hr>
+<hr>
